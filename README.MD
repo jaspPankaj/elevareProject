@@ -131,7 +131,10 @@ Remember to configure environment variables securely in production
 
 👤 Contributors
 
-Lead Developer: jaspPankaj
+Developer: Ishika pal
+
+Developer: Pankaj
+
 
 You? Fork, add features, open PRs!
 
