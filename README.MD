@@ -135,9 +135,6 @@ Developer: Ishika pal
 
 Developer: Pankaj
 
-
-You? Fork, add features, open PRs!
-
 📄 License
 
 MIT License
